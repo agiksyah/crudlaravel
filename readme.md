@@ -1,4 +1,5 @@
 - place "crudlaravel" in your directory such as www/crudlaravel
+- import tasks.sql database
 - run cmd
 - go to crudlaravel dir and type "php artisan serve"
 - in my case it will run on server http://localhost:8000/
