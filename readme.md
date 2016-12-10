@@ -2,3 +2,4 @@
 - run cmd
 - go to crudlaravel dir and type "php artisan serve"
 - in my case it will run on server http://localhost:8000/
+- crud menu url route http://localhost:8000/task
